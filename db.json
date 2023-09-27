@@ -1,60 +1,70 @@
 {
   "sites": [
     {
+      "id": 1,
       "zhoneCode": "BAOLG",
       "siteUrl": "https://baolg.netlify.app/",
       "siteName": "Builders Association Ov Layered Generalists",
       "siteDesc": "Builders Association Ov Layered Generalists, a living, breathing WorkShop PortFolio ov which thaSG (this site) is an extension"
     },
     {
+      "id": 2,
       "zhoneCode": "JSY",
       "siteUrl": "https://jacobs-salvage.netlify.app/",
       "siteName": "Jacob's Salvage Yard",
       "siteDesc": "A Coventry Grove site, and thus subject to the MATURE MATERIAL disclaimer. A place to recycle ideas and attachments into the raw components of inspiration and artistic endeavor... We don\"t throw away anything in Coventry Grove, all are Gathered Back into tha Gratefully Bountiful Gatherlyngs..."
     },
     {
+      "id": 3,
       "zhoneCode": "MCN",
       "siteUrl": "https://myriad-central.netlify.app/",
       "siteName": "Myriad Central Node",
       "siteDesc": "Both a noun and a proper noun, thee Myriad Central Node is the template for all Myriad Central Nodes. Comes equipped with the basic tools to maintain a node as well as documentation explaining what the ecosystem is and how it all works"
     },
     {
+      "id": 4,
       "zhoneCode": "CGBA",
       "siteUrl": "#",
       "siteName": "Coventry Grove Builders Association",
       "siteDesc": "mature occult content, philosophical explorations that occasionally need to use the safe word... (link on this page intentionally disabled, use CARDS for access)"
     },
     {
+      "id": 5,
       "zhoneCode": "MCCU",
       "siteUrl": "https://mccu.netlify.app/",
       "siteName": "Myriad Central Credit Union",
       "siteDesc": "Giving Credit Where Credit Is Due"
     },
     {
+      "id": 6,
       "zhoneCode": "CGCU",
       "siteUrl": "#",
       "siteName": "Coventry Grove Credit Union",
       "siteDesc": "to afford discretion to members of CGBA, a separate Credit Union, with distinct persona registries, is maintained. Address will be given only to members of CGBA, link here is disabled but is mentioned to assure the curious of discretion"
     },
     {
+      "id": 7,
       "zhoneCode": "SC",
       "siteUrl": "https://sonic-circle.netlify.app/",
       "siteName": "Sonic Circle",
       "siteDesc": "A Place 4 Musicians 2 Play! A non-judgemental, turn based, participation oriented playground for musicians and aspiring musicians of all skill levels and goal orientations"
     },
     {
+      "id": 8,
       "zhoneCode": "SCA",
       "siteUrl": "https://sylvan-circle.netlify.app/",
       "siteName": "Sylvan Circle Academy",
       "siteDesc": "The 'Sylfan' philosophy of Sylvan Circle Academy encourages 'Self and Circle' thinking with regards to learning and dissemination of learning..."
     },
     {
+      "id": 9,
       "zhoneCode": "thaSG",
       "siteUrl": "https://thasg.netlify.app/",
       "siteName": "thaStrataGem",
       "siteDesc": "tha Monthly Newlsetter 4 tha Myriad EcoSystem Arrangement"
     },
     {
+      "id": 10,
       "zhoneCode": "JUSBEU",
       "siteUrl": "https://jus-be-u.netlify.app/",
       "siteName": "JusBeU",
@@ -64,16 +74,19 @@
   ], 
   "zhones": [
     {
+      "id": 1,
       "zhoneCode": "BAOLG",
       "passCode": "BAOLG2",
       "zhoneType": "home"
     },
     {
+      "id": 2,
       "zhoneCode": "JSY",
       "passCode": "BUILDER",
       "zhoneType": "home"
     },
     {
+      "id": 3,
       "zhoneCode": "thaSG",
       "passCode": "BUILDER",
       "zhoneType": "doorway",
@@ -82,51 +95,61 @@
   ],
   "cards": [
     {
+      "id": 1,
       "passCode": "BAOLG2",
       "uuid": "",
       "image": "https://madamadam.s3.us-east-2.amazonaws.com/BAOLG-0c83.png"
     },
     {
+      "id": 2,
       "passCode": "BUILDER",
       "uuid": "",
       "image": "https://madamadam.s3.us-east-2.amazonaws.com/BUILDER-2f53.png"
     },
     {
+      "id": 3,
       "passCode": "CARDS",
       "uuid": "",
       "image": "https://madamadam.s3.us-east-2.amazonaws.com/CARDS-6752_CARD.png"
     },
     {
+      "id": 4,
       "passCode": "CGBA",
       "uuid": "",
       "image": "https://madamadam.s3.us-east-2.amazonaws.com/CGBA-13c9.png"
     },
     {
+      "id": 5,
       "passCode": "MCCU",
       "uuid": "",
       "image": "https://madamadam.s3.us-east-2.amazonaws.com/MCCU-adec_CARD.png"
     },
     {
+      "id": 6,
       "passCode": "PANDAEMONIC",
       "uuid": "",
       "image": "https://madamadam.s3.us-east-2.amazonaws.com/PANDAEMONIC-02ea_CARD.png"
     },
     {
+      "id": 7,
       "passCode": "PLAY",
       "uuid": "",
       "image": "https://madamadam.s3.us-east-2.amazonaws.com/PLAY-4249.png"
     },
     {
+      "id": 8,
       "passCode": "SYLFAN",
       "uuid": "",
       "image": "https://madamadam.s3.us-east-2.amazonaws.com/SYLFAN-857a_CARD.png"
     },
     {
+      "id": 9,
       "passCode": "SYW5",
       "uuid": "",
       "image": "https://madamadam.s3.us-east-2.amazonaws.com/SYW5-ac89_CARD.png"
     },
     {
+      "id": 10,
       "passCode": "WEWALKS",
       "uuid": "",
       "image": "https://madamadam.s3.us-east-2.amazonaws.com/WEWALKS-9071_20230821_115243_0000.png"
