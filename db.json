@@ -24,7 +24,7 @@
     {
       "id": 4,
       "zhoneCode": "CGBA",
-      "siteUrl": "#",
+      "siteUrl": "https://cgba.netlify.app/",
       "siteName": "Coventry Grove Builders Association",
       "siteDesc": "mature occult content, philosophical explorations that occasionally need to use the safe word... (link on this page intentionally disabled, use CARDS for access)"
     },
@@ -69,6 +69,13 @@
       "siteUrl": "https://jus-be-u.netlify.app/",
       "siteName": "JusBeU",
       "siteDesc": "Coventry Grove\"s little sister site, the more PG rated version of spirituality that keeps it safe and basic. A good place to learn about meditation and affirmations and general wellness without worrying about touching upon the more intense levels dealt with by CG in general..."
+    },
+    {
+      "id": 11,
+      "zhoneCode": "thaTB",
+      "siteUrl": "https://thatb.netlify.app/",
+      "siteName": "thaTB",
+      "siteDesc": "Checkout thaTB, where we put what we cookin up, separate from where we display it, lest we throw out the baby with the bath water"
     }
 
   ], 

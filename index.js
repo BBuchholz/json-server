@@ -1,3 +1,5 @@
+// created following this tutorial: https://chrisdevcode.hashnode.dev/how-to-create-and-deploy-a-json-server
+
 const jsonServer = require('json-server')
 const cors = require('cors')
 const path = require('path')
